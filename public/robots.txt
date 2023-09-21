@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap0.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap1.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap2.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap3.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap4.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap5.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap6.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap7.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap8.xml
+Sitemap: https://careerfair.unesa.ac.id//index.php?sitemap9.xml
